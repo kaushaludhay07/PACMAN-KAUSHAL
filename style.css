@@ -1,0 +1,13 @@
+body {
+  margin: 0;                 /* elimina margini */
+  background: black;        /* sfondo nero */
+  color: yellow;            /* testo giallo */
+  text-align: center;      /* centra testo */
+  font-family: monospace;  /* font stile retro */
+}
+
+canvas {
+  background: #000;         /* sfondo canvas */
+  border: 2px solid blue;   /* bordo blu */
+  margin-top: 10px;         /* spazio sopra */
+}
